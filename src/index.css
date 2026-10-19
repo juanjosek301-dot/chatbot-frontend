@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  max-width: 48rem;
+  margin: 5rem auto;
+  padding: 1rem;
+}
